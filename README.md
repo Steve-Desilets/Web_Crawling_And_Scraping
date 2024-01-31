@@ -2,7 +2,9 @@ For the project included within this Github repository, we imagine that we are a
 
 Accordingly, the data scientist in this study created the "web_crawling_and_scraping" Go script included within this repository to crawl across the following webpages and scrape information from them. 
     - https://en.wikipedia.org/wiki/Robotics
+    
     - https://en.wikipedia.org/wiki/Robot
+    
     - https://en.wikipedia.org/wiki/Reinforcement_learning
     - https://en.wikipedia.org/wiki/Robot_Operating_System
     - https://en.wikipedia.org/wiki/Intelligent_agent
